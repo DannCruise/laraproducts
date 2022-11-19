@@ -3,7 +3,9 @@
 ## Api en Laravel 9
 
 La api creada sin framework (https://gitlab.com/DanCruise/api-products) ahora en Laravel
-
+- CRUD
+- Se usa un  <b>Factory</b> para insertar registros en la tabla, ejecutándolo desde el <b>Seeder</b>
+- Se utiliza <b>Validator</b> para validaro los input de la solicitud
 
 Instalación:
 
